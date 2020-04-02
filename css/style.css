@@ -1,3 +1,7 @@
+.heading{
+    font-weight: bold;
+}
+
 .row-header{
     margin: 0 auto;
     padding: 0 auto;
@@ -7,6 +11,11 @@
     margin: 0 auto;
     padding: 50px 0 50px 0;
     border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.row-padding{
+    padding: 50px 0 50px 0;
     min-height: 400px;
 }
 
